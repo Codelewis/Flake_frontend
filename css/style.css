@@ -330,7 +330,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         padding: 0px 15px;
     }
     .main-nav li a {
-        font-size: 14px;
+        font-size: 18px;
         -webkit-transition: 0.2s color;
         transition: 0.2s color;
     }
@@ -1489,6 +1489,12 @@ header {
     text-transform: uppercase;
     margin: 0;
 }
+
+.increase-font{
+  font-size:19.8px;
+
+}
+
 
 
 /*------------------------------------*\
